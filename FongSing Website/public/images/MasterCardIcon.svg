@@ -1,0 +1,22 @@
+<svg id="MasterCard" xmlns="http://www.w3.org/2000/svg" width="32" height="19.79" viewBox="0 0 32 19.79">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #ff5a00;
+      }
+
+      .cls-2 {
+        fill: #eb001b;
+      }
+
+      .cls-3 {
+        fill: #f79e1b;
+      }
+    </style>
+  </defs>
+  <g>
+    <rect id="rect19" class="cls-1" x="11.66" y="2.12" width="8.66" height="15.56"/>
+    <path class="cls-2" d="M12.23,16A9.93,9.93,0,0,1,16,8.22a9.9,9.9,0,1,0,0,15.56A9.9,9.9,0,0,1,12.23,16Z" transform="translate(0 -6.1)"/>
+    <path id="path22" class="cls-3" d="M32,16a9.88,9.88,0,0,1-16,7.78A9.91,9.91,0,0,0,16,8.22,9.81,9.81,0,0,1,22.1,6.1,9.92,9.92,0,0,1,32,16Z" transform="translate(0 -6.1)"/>
+  </g>
+</svg>
